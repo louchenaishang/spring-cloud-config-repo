@@ -1,0 +1,5 @@
+cloud:
+  mysql: 
+    url: xxx
+    username: yyy
+    password: zzz
