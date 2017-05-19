@@ -1,5 +1,6 @@
 cloud:
   eureka:
+    environment: dev
     server:
       hostname: 127.0.0.1
       username: louchen
