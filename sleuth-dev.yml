@@ -1,0 +1,8 @@
+cloud:
+  spring: 
+    sleuth:
+      sampler:
+        percentage: 1.0
+    zipkin:
+      enabled: true
+      flush-interval: 1

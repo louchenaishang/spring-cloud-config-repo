@@ -1,0 +1,9 @@
+cloud:
+  service: 
+    logging:
+      level: 
+        root: info
+    security:
+      user:
+        name: linyinan
+        password: 123456

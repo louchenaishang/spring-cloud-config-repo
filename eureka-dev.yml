@@ -1,0 +1,11 @@
+cloud:
+  eureka:
+    server:
+      hostname: 127.0.0.1
+      username: louchen
+      password: 123456
+    instance:
+      prefer-ip-address: true
+    client:
+      healthcheck:
+          enabled: true
