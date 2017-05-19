@@ -1,2 +1,2 @@
 cloud:
-  author: '${cipher}0778efad25560aad2dd1238351323ae51a3d5ea2677bab3e6f353'
+  author: `${cipher}0778efad25560aad2dd1238351323ae51a3d5ea2677bab3e6f353`
